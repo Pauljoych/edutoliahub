@@ -11,8 +11,8 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Edutolia Hub',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  domain: 'hub.edutolia.com',
+  author: 'Edutolia Team',
 
   // open graph metadata (optional)
   description: 'Edutolia Hub',
