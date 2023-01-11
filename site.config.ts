@@ -42,7 +42,7 @@ export default siteConfig({
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
   // example:
-  // https://pauljoych.notion.site/Content-Planner-fc72ea3389f1421eb5123806e19bc5c6
+  // https://www.notion.so/pauljoych/Content-Planner-fc72ea3389f1421eb5123806e19bc5c6
   pageUrlOverrides: {
     '/content': 'fc72ea3389f1421eb5123806e19bc5c6',
   },
